@@ -1,2 +1,2 @@
-server:
-  port: 1001
+config:
+  info: 这是dev1001
